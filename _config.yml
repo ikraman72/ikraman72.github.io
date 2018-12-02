@@ -2,16 +2,16 @@
 #
 
 # Site settings
-title: <span style=color:#ff0000;>ИКРА</span>МОБИЛЬ72
+title: ИКРАМОБИЛЬ72
 description:  |
-  ПРОДУКТ ОХЛАЖЕНННЫЙ С КАМЧАТКИ<br>
   ИКРА ГОРБУШИ КРАСНАЯ (АВГУСТ-СЕНТЯБРЬ 2018)<br>
+  ПРОДУКТ ОХЛАЖЕНННЫЙ С КАМЧАТКИ<br>
   ДОСТАВКА ПО ТЮМЕНИ
-owner: сервис доставки красной икры в Тюмени # or company name
+owner: сервис доставки свежей красной икры горбуши в Тюмени # or company name
 first_published: 2017-
 email: ikraman72@yandex.ru
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ikra.m-draft.com" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 social:
   instagram: https://instagram.com
   facebook-official: https://facebook.com
